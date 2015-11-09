@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/sbellem/example-python.svg)](https://travis-ci.org/sbellem/example-python)
 [![codecov.io](https://codecov.io/github/sbellem/example-python/coverage.svg?branch=master)](https://codecov.io/github/sbellem/example-python?branch=master)
+![codecov.io](https://codecov.io/github/sbellem/example-python/branch.svg?branch=master)
 
 
 Python Example
