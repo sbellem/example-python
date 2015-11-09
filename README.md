@@ -1,3 +1,6 @@
+[![codecov.io](https://codecov.io/github/sbellem/example-python/coverage.svg?branch=master)](https://codecov.io/github/sbellem/example-python?branch=master)
+
+
 Python Example
 =======
 | [https://codecov.io/][1] | [@codecov][2] | [hello@codecov.io][3] |
