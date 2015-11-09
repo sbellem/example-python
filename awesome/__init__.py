@@ -1,5 +1,10 @@
 def smile():
-    return ":)"
+    return ':)'
+
 
 def frown():
-    return ":("
+    return ':('
+
+
+def laugh():
+    return ':-D'
