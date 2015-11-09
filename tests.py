@@ -6,3 +6,8 @@ def test_smile():
 def test_frown():
     from awesome import frown
     assert frown() == ':('
+
+
+def test_laugh():
+    from awesome import laugh
+    assert laugh() == ':-D'
