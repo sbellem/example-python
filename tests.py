@@ -1,12 +1,8 @@
-import unittest
-
-import awesome
-
-
-class TestMethods(unittest.TestCase):
-    def test_add(self):
-        self.assertEqual(awesome.smile(), ":)")
+def test_smile():
+    from awesome import smile
+    assert smile() == ':)'
 
 
-if __name__ == '__main__':
-    unittest.main()
+def test_frown():
+    from awesome import frown
+    assert frown() == ':('
