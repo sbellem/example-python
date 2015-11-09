@@ -8,3 +8,7 @@ def frown():
 
 def laugh():
     return ':-D'
+
+
+def cry():
+    return '(:_;)'
